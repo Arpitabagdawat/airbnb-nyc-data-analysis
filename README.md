@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the NYC Airbnb 2024 dataset to understand pricing patterns, neighborhood trends, room type differences, and availability. The goal is to extract meaningful insights that can help both hosts optimize pricing and travelers make informed booking decisions.
-(https://github.com/Arpitabagdawat/airbnb-nyc-data-analysis/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
+((https://github.com/Arpitabagdawat/airbnb-nyc-data-analysis/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg))
 
 ---
 
@@ -72,3 +72,8 @@ This EDA highlights that Airbnb pricing in NYC is strongly influenced by locatio
 3. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+
+## 👤 Author
+
+Arpita Bagdawat
